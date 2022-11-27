@@ -1,0 +1,18 @@
+{
+  "name": "nodebird",
+  "version": "0.0.1",
+  "description": "d",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "s"
+  },
+  "keywords": [
+    "s"
+  ],
+  "author": "yoon",
+  "license": "MIT"
+}
